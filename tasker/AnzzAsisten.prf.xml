@@ -43,7 +43,7 @@
       <Int sr="arg4" val="0"/>
       <Str sr="arg5" ve="3">https://api.openai.com/v1/chat/completions</Str>
       <Str sr="arg6" ve="3"/>
-      <Str sr="arg7" ve="3">Authorization: Bearer YOUR_API_KEY_HERE</Str>
+      <Str sr="arg7" ve="3">Authorization: Bearer AQ.Ab8RN6LCZd7m7ENwewLdDnAaslIAGLWVMvbtce0V7XTt442T9A </Str>
       <Str sr="arg8" ve="3">Content-Type: application/json</Str>
       <Str sr="arg9" ve="3">{"model":"gpt-3.5-turbo","messages":[{"role":"user","content":"%input_text"}]}</Str>
       <Int sr="arg10" val="0"/>
