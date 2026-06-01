@@ -1,0 +1,17 @@
+# API Keys - JANGAN PERNAH COMMIT API KEY ASLI!
+*.key
+*.secret
+.env
+config.json
+api_key.txt
+
+# File sistem
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# File sementara
+*.tmp
+*.bak
+*.log
+*.cache
